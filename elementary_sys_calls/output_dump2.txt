@@ -1,0 +1,1 @@
+This is just an example of text one might find in a file. Let's imagine that we are reading it, and we want to display it. That's what this application does, isn't it? So here is hoping it is showing as intended. it would be very sad if it wasn't. Anyway, this should be plenty; hopefully this brief introduction to system calls will be instructive enough as is.
